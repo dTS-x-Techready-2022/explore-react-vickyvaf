@@ -11,7 +11,7 @@ const Auction = () => {
     iauction({
       countdownInMin: 1,
       startDate: "2022/10/10 17:30:00",
-      endDate: "2022/10/15 18:23:00",
+      endDate: "2022/12/11 18:23:00",
       callback: (time) => {
         // console.log(time.time);
         let times = time.time;
